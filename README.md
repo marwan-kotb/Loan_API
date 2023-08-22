@@ -13,8 +13,8 @@ This is a simple Loan Management System API that allows users to submit loan req
 
 ```bash
 git clone
-cd loan_management_system
-python3 -m venv venv
+cd Loan_API
+python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python manage.py migrate
